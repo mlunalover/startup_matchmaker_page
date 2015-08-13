@@ -1,0 +1,185 @@
+body {
+  font-family: Sans-Serif;
+}
+
+.main-title {
+  background-color: RGBA(0, 0, 0, 1);
+}
+
+.title  {
+  color: RGBA(250, 241, 71, 1);
+  font-family: serif;
+}
+
+.navi {
+  background-color: RGBA(0, 0, 0, 1);
+  color: white;
+  font-size: 10px;
+  text-align: right;
+}
+
+.big-navi-font  {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  text-decoration: none;
+  /*margin-left: 30px;*/
+  font-size: 17px;
+  /*margin-right: 20px;*/
+}
+
+.lil-navi {
+  font-size: 15px;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.hr-top {
+  background-color: RGBA(250, 241, 71, 1);
+  height: 5px;
+}
+
+.head-line  {
+  text-align: center;
+  background-color: RGBA(198, 198, 198, 1);
+  font-family: serif;
+}
+
+.taste  {
+  color: RGBA(151, 151, 151, 1);
+  text-decoration: line-through;
+}
+
+.are  {
+  color: RGBA(250, 241, 71, 1);
+  text-decoration: underline;
+}
+
+.hero-image {
+  background: url(../images/coworking.jpg) no-repeat center;
+  height: 600px;
+}
+
+.row-fluid  {
+  background-color: RGBA(255, 255, 255, 0.4);
+  width: 380px;
+  height: 400px;
+  float: right;
+  border: 10px;
+  margin-right: 80px;
+  margin-top: 20px;
+  text-align: center;
+  border-color: black;
+  border: 5px;
+  border-style: solid;
+}
+
+.meet-match {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.meet-text  {
+  padding: 20px;
+  color: black;
+}
+
+/*.hero-text  {
+  width: 380px;
+  height: 400px;
+  float: right;
+  display: flex;
+  background-color: RGBA(255, 255, 255, 0.4);
+  border: 10px;
+  border-color: black;
+  margin-right: 100px;
+  margin-top: 10px;
+
+}
+
+.hero-font h3 {
+  padding-top: 5px;
+  color: black;
+
+}
+
+.hero-font  {
+  text-align: center;
+}
+
+.hero-font p  {
+  padding: 40px 20px;
+  color: black;
+}*/
+
+.profile-but  {
+  background-color: RGBA(250, 241, 71, 1);
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.create-profile {
+  color: black;
+  background-color: RGBA(255, 255, 255, 1);
+  text-align: center;
+  border-right: 1px solid;
+}
+
+.create-profile h2  {
+  font-family: serif;
+}
+
+.sign-up  {
+  background-color: RGBA(198, 198, 198, 1);
+  color: black;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.find-dev {
+  text-align: center;
+  border-right: 1px solid;
+}
+
+.find-dev h2 {
+  font-family: serif;
+}
+
+.find-design  {
+  text-align: center;
+
+}
+
+.find-design h2  {
+  font-family: serif;
+
+}
+
+.search {
+  background-color: RGBA(198, 198, 198, 1);
+  color: black;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+
+.bottom-tabs  {
+  padding: 0 60px;
+}
+
+.footer {
+  background-color: black;
+  height: 60px;
+  color: white;
+}
