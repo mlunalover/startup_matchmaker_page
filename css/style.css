@@ -92,34 +92,6 @@ a:hover {
   color: black;
 }
 
-/*.hero-text  {
-  width: 380px;
-  height: 400px;
-  float: right;
-  display: flex;
-  background-color: RGBA(255, 255, 255, 0.4);
-  border: 10px;
-  border-color: black;
-  margin-right: 100px;
-  margin-top: 10px;
-
-}
-
-.hero-font h3 {
-  padding-top: 5px;
-  color: black;
-
-}
-
-.hero-font  {
-  text-align: center;
-}
-
-.hero-font p  {
-  padding: 40px 20px;
-  color: black;
-}*/
-
 .profile-but  {
   background-color: RGBA(250, 241, 71, 1);
   color: black;
